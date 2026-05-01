@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Whispers in the Wind",
+    "author": "Lina Rahman",
+    "description": "A heartfelt story of love and loss carried through the whispers of time.",
+    "category": "Story",
+    "available_quantity": 25,
+    "image_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+  },
+  {
+    "id": 2,
+    "title": "The AI Frontier",
+    "author": "David Chen",
+    "description": "An in-depth look at the future of artificial intelligence and its global impact.",
+    "category": "Tech",
+    "available_quantity": 60,
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 3,
+    "title": "Cosmic Wonders",
+    "author": "Sara Ahmed",
+    "description": "Explore the mysteries of the universe, from black holes to distant galaxies.",
+    "category": "Science",
+    "available_quantity": 40,
+    "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa"
+  },
+  {
+    "id": 4,
+    "title": "Shadows of Yesterday",
+    "author": "Mark D'Souza",
+    "description": "A gripping tale of secrets buried in the past that resurface unexpectedly.",
+    "category": "Story",
+    "available_quantity": 18,
+    "image_url": "https://images.unsplash.com/photo-1497032205916-ac775f0649ae"
+  },
+  {
+    "id": 5,
+    "title": "Cyber World 101",
+    "author": "Nadia Karim",
+    "description": "A beginner-friendly introduction to cybersecurity in the digital age.",
+    "category": "Tech",
+    "available_quantity": 55,
+    "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b"
+  },
+  {
+    "id": 6,
+    "title": "The Cell Universe",
+    "author": "Dr. Meherun Nesa",
+    "description": "Dive into the fascinating microscopic world of cells and biology.",
+    "category": "Science",
+    "available_quantity": 32,
+    "image_url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69"
+  },
+  {
+    "id": 7,
+    "title": "The Lost Letters",
+    "author": "Ayesha Noor",
+    "description": "A touching narrative about rediscovered letters that change lives forever.",
+    "category": "Story",
+    "available_quantity": 22,
+    "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba"
+  },
+  {
+    "id": 8,
+    "title": "Robotics Rising",
+    "author": "Kevin Patel",
+    "description": "A comprehensive guide to the rise of robotics and automation.",
+    "category": "Tech",
+    "available_quantity": 47,
+    "image_url": "https://images.unsplash.com/photo-1581090700227-1e8a3f3b7c9b"
+  },
+  {
+    "id": 9,
+    "title": "Gravity and Beyond",
+    "author": "Rafiq Islam",
+    "description": "Understanding gravity and its role in shaping the universe.",
+    "category": "Science",
+    "available_quantity": 35,
+    "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa"
+  },
+  {
+    "id": 10,
+    "title": "Timeless Echoes",
+    "author": "Tanvir Hasan",
+    "description": "A time-travel adventure where every decision alters reality.",
+    "category": "Story",
+    "available_quantity": 20,
+    "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  {
+    "id": 11,
+    "title": "Blockchain Basics",
+    "author": "Farhan Ahmed",
+    "description": "An easy-to-understand introduction to blockchain technology.",
+    "category": "Tech",
+    "available_quantity": 50,
+    "image_url": "https://images.unsplash.com/photo-1639322537228-f710d846310a"
+  },
+  {
+    "id": 12,
+    "title": "The Science of Life",
+    "author": "Imran Hossain",
+    "description": "An engaging exploration of biological systems and life processes.",
+    "category": "Science",
+    "available_quantity": 28,
+    "image_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564"
+  }
+]
