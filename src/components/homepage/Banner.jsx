@@ -8,7 +8,7 @@ const Banner = () => {
   return (
     <div className='container mx-auto items-center'>
       <div className='flex justify-center items-center'>
-        <h1 className="text-4xl md:text-5xl font-bold mb-4 max-w-2xl my-5">
+        <h1 className="text-4xl md:text-5xl font-bold mb-4 text-linear-to-bl bg-gradient-to-r from-purple-700 to-fuchsia-600 bg-clip-text text-transparent max-w-2xl my-5">
           Find Your Next Read
         </h1>
       </div>
@@ -23,7 +23,7 @@ const Banner = () => {
           </div>
           <div className="my-8">
         <Link href="#">
-          <button className="text-white text-lg font-semibold bg-green-500 px-10 py-3 rounded-full">Browse Now</button>
+          <button className="text-white text-lg font-semibold bg-green-500 px-10 py-2 rounded-full">Browse Now</button>
         </Link>
       </div>
         </div>
@@ -35,6 +35,7 @@ const Banner = () => {
 };
 export default Banner;
 
-{/* <Button className="bg-linear-to-r from-pink-500 via-purple-500 bg-red-500">
-  Browse Now
-</Button> */}
+
+// bookdata api: https://omnibooks-lending-library.vercel.app/bookData.json
+
+// https://omnibooks-lending-library.vercel.app/category.json

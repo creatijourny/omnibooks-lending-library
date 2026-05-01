@@ -20,7 +20,7 @@ const Navbar = () => {
        <div className='flex justify-between mt-6 bg-[#FFFFFF] shadow'>
             <nav className="flex justify-between items-center  py-3 container mx-auto">
         <div>          
-          <h3 className="font-bold text-3xl">Omni<span className="text-orange-600">Books</span></h3>
+          <h3 className="font-bold text-3xl"><span className="text-orange-600">Omni</span>Book</h3>
         </div>
 
         <ul className="flex items-center gap-5 text-lg">
@@ -28,7 +28,7 @@ const Navbar = () => {
             <NavLink href={"/"}>Home</NavLink>
           </li>
           <li>
-            <NavLink href={"/all-photos"}>All Photos</NavLink>
+            <NavLink href={"/all-books"}>All Books</NavLink>
           </li>
           
           <li>
