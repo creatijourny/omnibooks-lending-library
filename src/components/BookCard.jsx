@@ -15,8 +15,8 @@ const BookCard = ({book}) => {
                 className='object-cover rounded-lg'/>                
             </div>
             <div className='flex flex-col items-center justify-center'>
-                <h3 className='text-2xl font-semibold'>{title}</h3>
-                <button className='px-5 py-2 rounded-3xl bg-gradient-to-r from-fuchsia-600 to-purple-600 text-white'>Show Details</button>
+                <h3 className='text-xl font-semibold mb-3'>{title}</h3>
+                <button className='px-5 py-2 rounded-3xl bg-gradient-to-r from-green-600 to-sky-600 text-white mb-6'>Show Details</button>
             </div>
         </div>
     );
