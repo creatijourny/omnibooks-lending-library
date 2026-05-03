@@ -1,5 +1,5 @@
 "use client";
-// import { authClient } from "@/lib/auth-client";
+import { authClient } from "@/lib/auth-client";
 // import { Button } from "@daisyui/react";
 
 
@@ -9,12 +9,12 @@ import NavLink from "./NavLink";
 
 
 const Navbar = () => {
-//     const userData = authClient.useSession();
-//   const user = userData.data?.user;
+    const userData = authClient.useSession();
+  const user = userData.data?.user;
 
-//   const handleSignOut = async () => {
-//     await authClient.signOut();
-//   }
+  // const handleSignOut = async () => {
+  //   await authClient.signOut();
+  // }
 
     return (
        <div className='flex justify-between mt-6 bg-[#FFFFFF] shadow'>

@@ -8,7 +8,7 @@ const FeaturedBooks = async () => {
     // console.log(topBooks);
     return (
         <div className='container mx-auto'>
-            <h2 className='text-5xl font-bold my-10 text-center text-linear-to-bl bg-gradient-to-r from-purple-700 to-orange-600 bg-clip-text text-transparent'>Featured Books</h2>
+            <h2 className='text-5xl font-bold my-10 text-center text-linear-to-bl bg-gradient-to-r from-purple-700 to-fuchsia-600 bg-clip-text text-transparent'>Featured Books</h2>
             <div className='grid grid-cols-2 md:grid-cols-4 gap-6'>
                 {
                     topBooks.map(book =>

@@ -2,7 +2,12 @@
 const nextConfig = {
   /* config options here */
   images: {
-    domains: ['i.ibb.co.com'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'i.ibb.co.com',
+      },
+    ],
   },
 };
 

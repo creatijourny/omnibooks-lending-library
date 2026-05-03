@@ -32,9 +32,7 @@ export default function RootLayout({ children }) {
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className={`${poppins.className} min-h-full flex flex-col`}>
-        <Navbar />
-        <Banner />
-        <FeaturedBooks />
+        
         {children}
         </body>
     </html>
