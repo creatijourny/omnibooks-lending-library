@@ -3,6 +3,7 @@ import FeaturedBooks from '@/components/homepage/FeaturedBooks';
 import Navbar from '@/components/Navbar';
 import NewArrivals from '@/components/NewArrivals';
 import React from 'react';
+import AllBooksPage from './all-books/page';
 
 const MainLayout = ({children}) => {
     return (
@@ -10,7 +11,7 @@ const MainLayout = ({children}) => {
             <Navbar />
             <Banner />
             <NewArrivals />
-            <FeaturedBooks />
+            <FeaturedBooks />            
             {children}
         </>
     );

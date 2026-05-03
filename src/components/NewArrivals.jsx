@@ -32,7 +32,7 @@ const NewArrivals = () => {
                 {books.map(n=> 
                     <span key={n.id} style={{ marginRight: "40px" }}>{n.title}</span>
                 )}
-                <p className='mx-10 text-orange-300'>Special Discount on Memberships...</p>
+                <p className='mx-10 text-red-500 text-xl font-semibold'>Special Discount on Memberships...</p>
             </Marquee>
         </div>
     );
