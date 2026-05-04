@@ -22,7 +22,7 @@ const Banner = () => {
           </div>
           <div className="my-8">
         <Link href='/all-books'>
-          <button className="text-white text-3xl border border-purple-400 font-semibold bg-transparent px-10 py-2 rounded-full cursor-pointer">Browse Now</button>
+          <button className="text-white text-3xl border border-purple-400 font-semibold bg-transparent px-8 py-2 rounded-full cursor-pointer">Browse Now</button>
         </Link>
       </div>
         </div>
