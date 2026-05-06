@@ -8,7 +8,7 @@ async function getCategories (){
   return data;
 }
 async function getBooksByCategory (){  
-  const res = await fetch('https://omnibooks-lending-library.vercel.app/bookData.json');
+  const res = await fetch(`https://omnibooks-lending-library.vercel.app/bookData.json`);
 
   const data = await res.json();
   
@@ -26,7 +26,7 @@ export default async function Home() {
   return (
     <div className="container mx-auto grid grid-cols-12 gap-8 my-[60px]">
       <div className="col-span-3">
-        <Sidebar categories={categories} activeId={2}/>
+        <Sidebar categories={categories} activeId={null}/>
       </div>
 
       <div className="col-span-9">

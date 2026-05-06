@@ -1,15 +1,31 @@
+import { auth } from '@/lib/auth';
+import { headers } from 'next/headers';
 import Image from 'next/image';
 import Link from 'next/link';
+import { redirect } from 'next/navigation';
 import React from 'react';
 
 const BookDetailsPage = async ({ params }) => {
     const { id } = await params;
+
+
+    // const session = await auth.api.getSession({
+    //     headers: await headers(),
+    // });
+    // if (!session) {
+    //     redirect(`/login?redirect=/books/${id}`);
+    // }
+
+
     const res = await fetch('https://omnibooks-lending-library.vercel.app/bookData.json');
     const books = await res.json();
 
     const book = books.find(b => b.id == id)
-    console.log(book);
+    // console.log(book);
     // console.log(id);
+    // if (!book) {
+    //     return <p>Book not found</p>;
+    // }
    
     return (
         <div className='container mx-auto flex flex-col md:flex-row justify-between items-center gap-5'>

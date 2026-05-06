@@ -8,7 +8,7 @@ const AllBooksPage = async () => {
 
     return (
         <div className='container mx-auto my-5'>
-            <div className='grid grid-cols-2 md:grid-cols-4 gap-5 my-5'>
+            <div className='grid grid-cols-2 gap-2 px-1 md:grid-cols-4 my-5'>
                 {
                     books.map(book => <BookCard key={book.id} book={book} />)
                 }

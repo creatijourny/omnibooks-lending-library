@@ -13,5 +13,10 @@
     "id": 3,
     "name": "Science",
     "slug": "science"
+  },
+  {
+    "id": 4,
+    "name": "Poetry",
+    "slug": "poetry"
   }
 ]

@@ -5,6 +5,7 @@
     "author": "Lina Rahman",
     "description": "A heartfelt story of love and loss carried through the whispers of time.",
     "category": "Story",
+    "category_id": 1,
     "available_quantity": 25,
     "image_url": "https://i.ibb.co.com/7dkgnVfS/whisper.jpg"
   },
@@ -14,6 +15,7 @@
     "author": "Matthew Harffy",
     "description": "An in-depth look at the future of artificial intelligence and its global impact.",
     "category": "Tech",
+    "category_id": 2,
     "available_quantity": 60,
     "image_url": "https://i.ibb.co.com/KzDnD8Rh/Dark-Frontier.jpg"
   },
@@ -23,6 +25,7 @@
     "author": "Sara Ahmed",
     "description": "Explore the mysteries of the universe, from black holes to distant galaxies.",
     "category": "Science",
+    "category_id": 3,
     "available_quantity": 40,
     "image_url": "https://i.ibb.co.com/0Vyr1yNh/cosmic.png"
   },
@@ -32,6 +35,7 @@
     "author": "Gourav Mohanty",
     "description": "The Rakshasan Tree Cities have opened their borders for the first time in centuries, gathering kings, clerics, matriarchs and merchant lords to a Conclave of Peace... all the better to carve up the future without having to worry about either Empire or Republic.",
     "category": "Story",
+    "category_id": 1,
     "available_quantity": 18,
     "image_url": "https://i.ibb.co.com/cSrxb2ft/Dance.jpg"
   },
@@ -41,6 +45,7 @@
     "author": " Anand Shinde",
     "description": "A beginner-friendly introduction to cybersecurity in the digital age. The book takes a dip in history to talk about the very first computer virus, and at the same time, discusses in detail about the latest cyber threats.",
     "category": "Tech",
+    "category_id": 2,
     "available_quantity": 55,
     "image_url": "https://i.ibb.co.com/4xTn0HH/cyber-secu.jpg"
   },
@@ -50,6 +55,7 @@
     "author": "Anthony L. Peratt",
     "description": "This book covers topics such as the large-scale structure and the filamentary universe; the formation of magnetic fields and galaxies, active galactic nuclei and quasars, the origin and abundance of light elements, star formation and the evolution of solar systems.",
     "category": "Science",
+    "category_id": 3,
     "available_quantity": 32,
     "image_url": "https://i.ibb.co.com/KpW6rGy4/plasma.jpg"
   },
@@ -59,6 +65,7 @@
     "author": "Jillian Cantor",
     "description": "A touching narrative about rediscovered letters that change lives forever. A gorgeous and thrilling novel… ",
     "category": "Story",
+    "category_id": 1,
     "available_quantity": 22,
     "image_url": "https://i.ibb.co.com/FqbpHzBm/lost-letter.jpg"
   },
@@ -68,6 +75,7 @@
     "author": "Appin Knowledge Solutions",
     "description": "This up-to-date text and reference is designed to present the fundamental principles of robotics with a strong emphasis on engineering applications and industrial solutions based on robotic technology. It can be used by practicing engineers and scientists",
     "category": "Tech",
+    "category_id": 2,
     "available_quantity": 47,
     "image_url": "https://i.ibb.co.com/QvqJ26q1/robotics.jpg"
   },
@@ -77,6 +85,7 @@
     "author": "Justin Leiber",
     "description": "Understanding gravity and its role in shaping the universe. Uncertain whether he is a prisoner or guest, and forgetful of the accident from which he is now recovering",
     "category": "Science",
+    "category_id": 3,
     "available_quantity": 35,
     "image_url": "https://i.ibb.co.com/4wz3yM22/gravity.jpg"
   },
@@ -86,6 +95,7 @@
     "author": "Dr Maricela A. Kohan Vitale",
     "description": "There are echoes that do not fade. They move through generations, carried in breath and memory, whispering truth into the heart of those who pause long enough to listen.",
     "category": "Story",
+    "category_id": 1,
     "available_quantity": 20,
     "image_url": "https://i.ibb.co.com/cKbg8ckw/timeless.jpg"
   },
@@ -95,6 +105,7 @@
     "author": " Daniel Drescher",
     "description": "This book bridges the gap that exists between purely technical books about the blockchain and purely business-focused books. It does so by explaining both the technical concepts that make up the blockchain and their role in business-relevant applications.",
     "category": "Tech",
+    "category_id": 2,
     "available_quantity": 20,
     "image_url": "https://i.ibb.co.com/ynN9btK0/blockchain.jpg"
   },
@@ -104,6 +115,7 @@
     "author": " Rupert Sheldrake",
     "description": "Rupert Sheldrake sees these processes as examples of morphic resonance. Past forms and activities of organisms, he argues, influence organisms in the present through direct connections across time and space.",
     "category": "Science",
+    "category_id": 3,
     "available_quantity": 22,
     "image_url": "https://i.ibb.co.com/Wv3XVhCX/life-science.jpg"
   }

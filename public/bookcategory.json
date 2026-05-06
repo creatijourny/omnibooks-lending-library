@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Forest",
+    "author": "Lily Harper",
+    "description": "A mysterious tale of a village surrounded by a forest that no one dares to enter.",
+    "category": "Story",
+    "available_quantity": 10,
+    "category_id": 1,
+    "image_url": "https://example.com/images/silent-forest.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mastering JavaScript",
+    "author": "James Walker",
+    "description": "An in-depth guide to modern JavaScript, from basics to advanced concepts.",
+    "category": "Tech",
+    "available_quantity": 7,
+    "category_id": 2,
+    "image_url": "https://example.com/images/js-mastering.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Exploring the Universe",
+    "author": "Sophia Bennett",
+    "description": "A journey through space, uncovering the secrets of stars, planets, and galaxies.",
+    "category": "Science",
+    "available_quantity": 5,
+    "category_id": 3,
+    "image_url": "https://example.com/images/universe.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Hidden Path",
+    "author": "Ethan Brooks",
+    "description": "A young adventurer discovers a secret path leading to an unknown world.",
+    "category": "Story",
+    "available_quantity": 12,
+    "category_id": 1,
+    "image_url": "https://example.com/images/hidden-path.jpg"
+  },
+  {
+    "id": 5,
+    "title": "React Made Easy",
+    "author": "Olivia Turner",
+    "description": "Learn how to build dynamic web applications using React step by step.",
+    "category": "Tech",
+    "available_quantity": 9,
+    "category_id": 2,
+    "image_url": "https://example.com/images/react-easy.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Wonders of Biology",
+    "author": "Daniel Scott",
+    "description": "An introduction to living organisms, from cells to ecosystems.",
+    "category": "Science",
+    "available_quantity": 6,
+    "category_id": 3,
+    "image_url": "https://example.com/images/biology.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Final Chapter",
+    "author": "Grace Mitchell",
+    "description": "A dramatic conclusion to a story of love, betrayal, and redemption.",
+    "category": "Story",
+    "available_quantity": 8,
+    "category_id": 1,
+    "image_url": "https://example.com/images/final-chapter.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Node.js Essentials",
+    "author": "Henry Adams",
+    "description": "Build scalable backend systems using Node.js and Express.",
+    "category": "Tech",
+    "available_quantity": 11,
+    "category_id": 2,
+    "image_url": "https://example.com/images/nodejs.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Physics for Everyone",
+    "author": "Emily Clark",
+    "description": "Understand the basic principles of physics in a simple and engaging way.",
+    "category": "Science",
+    "available_quantity": 4,
+    "category_id": 3,
+    "image_url": "https://example.com/images/physics.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Secret Island",
+    "author": "Jack Turner",
+    "description": "A group of friends uncover mysteries on a remote and hidden island.",
+    "category": "Story",
+    "available_quantity": 13,
+    "category_id": 1,
+    "image_url": "https://example.com/images/secret-island.jpg"
+  },
+  {
+    "id": 11,
+    "title": "AI Revolution",
+    "author": "Ava Rodriguez",
+    "description": "Discover how artificial intelligence is transforming industries and daily life.",
+    "category": "Tech",
+    "available_quantity": 6,
+    "category_id": 2,
+    "image_url": "https://example.com/images/ai.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Chemistry Basics",
+    "author": "Lucas Green",
+    "description": "A beginner-friendly guide to understanding chemical reactions and elements.",
+    "category": "Science",
+    "available_quantity": 7,
+    "category_id": 3,
+    "image_url": "https://example.com/images/chemistry.jpg"
+  }
+]

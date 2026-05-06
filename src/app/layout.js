@@ -1,6 +1,6 @@
 import { Geist, Geist_Mono, Poppins } from "next/font/google";
 import "./globals.css";
-import Navbar from "@/components/Navbar";
+import Navbar from "@/components/shared/Navbar";
 import Banner from "@/components/homepage/Banner";
 import FeaturedBooks from "@/components/homepage/FeaturedBooks";
 
