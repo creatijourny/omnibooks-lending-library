@@ -1,6 +1,5 @@
-import Image from "next/image";
-import AllBooksPage from "./all-books/page";
-import Sidebar from "@/components/homepage/Sidebar";
+import Sidebar from '@/components/homepage/Sidebar';
+import React from 'react';
 
 async function getCategories (){
   const res = await fetch('https://omnibooks-lending-library.vercel.app/category.json');  
@@ -17,17 +16,15 @@ async function getBookByCategoryId (category_id){
   return filteredBooks;
 }
 
-export default async function Home() {
-  const categories = await getCategories();
-  // console.log(categories);
+const BooksByCategory = async ({params}) => {
+   const {id} = await params;
+   console.log(id, "paramsRes")
 
-  // const categoryName = await getBookByCategoryId();
-
+    const categories = await getCategories(); 
   const book = await getBookByCategoryId("1");
-  // console.log(book, "books");
-  
-  return (
-    <div className="container mx-auto grid grid-cols-12 gap-8 my-[60px]">
+
+    return (
+        <div className="container mx-auto grid grid-cols-12 gap-8 my-[60px]">
       <div className="col-span-3">
         <Sidebar categories={categories} activeId={null}/>
       </div>
@@ -49,5 +46,7 @@ export default async function Home() {
       </div>
     
     </div>
-  );
-}
+    );
+};
+
+export default BooksByCategory;

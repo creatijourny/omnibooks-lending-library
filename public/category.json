@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "name": "Story",
-    "slug": "story"
+    "name": "All Books",
+    "slug": "All Books"
   },
   {
     "id": 2,
-    "name": "Tech",
-    "slug": "tech"
+    "name": "Story",
+    "slug": "Story"
   },
   {
     "id": 3,
@@ -16,7 +16,7 @@
   },
   {
     "id": 4,
-    "name": "Poetry",
-    "slug": "poetry"
+    "name": "Tech",
+    "slug": "Tech"
   }
 ]
